@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/monsters/static/css/main.fa0ddfc0.chunk.css",
+    "main.js": "/monsters/static/js/main.badab4c9.chunk.js",
+    "main.js.map": "/monsters/static/js/main.badab4c9.chunk.js.map",
+    "runtime-main.js": "/monsters/static/js/runtime-main.1c2bcb4a.js",
+    "runtime-main.js.map": "/monsters/static/js/runtime-main.1c2bcb4a.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/monsters/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.10510838.chunk.js": "/monsters/static/js/2.10510838.chunk.js",
+    "static/js/2.10510838.chunk.js.map": "/monsters/static/js/2.10510838.chunk.js.map",
+    "static/js/3.6985d033.chunk.js": "/monsters/static/js/3.6985d033.chunk.js",
+    "static/js/3.6985d033.chunk.js.map": "/monsters/static/js/3.6985d033.chunk.js.map",
+    "index.html": "/monsters/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/monsters/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.fa0ddfc0.chunk.css.map": "/monsters/static/css/main.fa0ddfc0.chunk.css.map",
+    "static/js/2.10510838.chunk.js.LICENSE.txt": "/monsters/static/js/2.10510838.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/monsters/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c2bcb4a.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.10510838.chunk.js",
+    "static/css/main.fa0ddfc0.chunk.css",
+    "static/js/main.badab4c9.chunk.js"
+  ]
+}
